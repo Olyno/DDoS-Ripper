@@ -1,4 +1,4 @@
-# DDoS-Ripper
+# DDoS-Ripper Deobfuscated
 
 # What is a DDoS Attack?
 A Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
@@ -80,6 +80,10 @@ For any kind of help, support, payment, suggetion and request ask me on Telegram
 <a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
 Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+
+# Modified by Olyno, based on dbogatov work
+
+Because the original code was obfuscated, here is the source code.
 
 ## Follow on:
 <p align="left">
